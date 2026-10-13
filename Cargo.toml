@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Shared simulation core of Ishtaria: identities, items with provenance, rulesets. Used by both server and client."
-repository = "https://github.com/VitexSoftware/ishtaria-core"
+repository = "https://git.vitexsoftware.com/Ishtaria/ishtaria-core"
 authors = ["Vítězslav Dvořák <cybervitexus@gmail.com>"]
 rust-version = "1.80"
 
