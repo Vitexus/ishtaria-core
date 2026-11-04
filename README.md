@@ -2,6 +2,10 @@
 
 <img src="https://git.vitexsoftware.com/Ishtaria/ishtaria-client/raw/branch/main/assets/branding/emblem.png" alt="Ishtaria" width="96">
 
+<!-- source-notice -->
+> **Primary source:** <https://git.vitexsoftware.com/Ishtaria/ishtaria-core> (development happens there). **GitHub** (<https://github.com/Vitexus/ishtaria-core>) is a secondary mirror; packages and binaries are **not built from GitHub**.
+<!-- /source-notice -->
+
 Shared Rust core of Ishtaria: federated identifiers (`@user:server`, `server/uuidv7` item ids), item categories and ruleset versions. Linked into the server, the generator and – through GDExtension – the Godot client, so client prediction and the server share one implementation of the rules.
 
 ```sh
